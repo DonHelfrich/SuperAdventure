@@ -1,5 +1,4 @@
-Y:\Projects\SuperAdventure\Engine\bin\Debug\Engine.dll
-Y:\Projects\SuperAdventure\Engine\bin\Debug\Engine.pdb
-Y:\Projects\SuperAdventure\Engine\obj\Debug\Engine.csprojResolveAssemblyReference.cache
-Y:\Projects\SuperAdventure\Engine\obj\Debug\Engine.dll
-Y:\Projects\SuperAdventure\Engine\obj\Debug\Engine.pdb
+C:\Projects\SuperAdventure\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Projects\SuperAdventure\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Projects\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Projects\SuperAdventure\SuperAdventure\Engine\obj\Debug\Engine.pdb
